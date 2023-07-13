@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nurmuhammad
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: VUE JS / JS / HTML / CSS
