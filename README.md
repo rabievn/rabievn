@@ -71,7 +71,7 @@
   <a href="mailto:nurmuhammad.rn@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
-<a href="https://steamcommunity.com/id/LaStidda/" target="_blank">
+<a href="https://steamcommunity.com/id/lastiddas/" target="_blank">
   <img src=https://img.shields.io/badge/steam-%2324292e.svg?&style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
 </a>  
 </div>  
