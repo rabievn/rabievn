@@ -9,7 +9,7 @@
 - 🔭I’m interested in web-dev  
   
 
-- 🌱 I’m currently learning Javascript and English (B2)  
+- 🌱 I’m currently learning Javascript 
   
 
 <br/>  
@@ -67,6 +67,12 @@
 </a>
 <a href="https://twitter.com/nurmuhammad_rn" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+  <a href="mailto:nurmuhammad.rn@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
+<a href="https://steamcommunity.com/id/LaStidda/" target="_blank">
+  <img src=https://img.shields.io/badge/steam-%2324292e.svg?&style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
