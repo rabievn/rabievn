@@ -90,14 +90,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31uiyb7mrlb3zxeqgqcobpajt43m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nurmuhammad02&&style=flat-square" align="center" />
