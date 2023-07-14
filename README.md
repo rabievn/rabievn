@@ -9,11 +9,11 @@
 - 🔭I’m interested in web-dev  
   
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript
   
+  ![codewars](https://www.codewars.com/users/Nurmuhammad02/badges/micro)
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -87,6 +87,8 @@
 
 <br/>  
 
+<br/>  
+
 
 ## Recent Blog Posts  
   
@@ -100,7 +102,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nurmuhammad02&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
