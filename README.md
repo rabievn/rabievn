@@ -62,7 +62,7 @@
 <a href="https://github.com/Nurmuhammad02" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/nurmuhammad_r" target="_blank">
+<a href="https://instagram.com/rabievn_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/nurmuhammad_rn" target="_blank">
