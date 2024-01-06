@@ -9,7 +9,7 @@
 - 🔭I’m interested in web-dev & QA 
   
 
-- 🌱 I’m currently learning Javascript and testing
+- 🌱 I’m currently QA
   
   ![codewars](https://www.codewars.com/users/Nurmuhammad02/badges/micro)
 
