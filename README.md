@@ -82,8 +82,8 @@
   
 
 <br/>  
-<div align="center" height="50px" width="50px">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uiyb7mrlb3zxeqgqcobpajt43m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+<div align="center" >
+  <img style="width: 200px; height: 250px; object-fit: cover;" src="https://spotify-github-profile.vercel.app/api/view?uid=31uiyb7mrlb3zxeqgqcobpajt43m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
 </div>
 
 ## Github Stats  
