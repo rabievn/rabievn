@@ -88,10 +88,12 @@
 
 ## Github Stats  
 
-<div> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurmuhammad02&theme=github_dark" style="width:100%;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nurmuhammad02&theme=github_dark" style="width:49%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurmuhammad02&theme=github_dark" style="width:49%;" />
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurmuhammad02&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurmuhammad02&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurmuhammad02&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurmuhammad02&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurmuhammad02&theme=github_dark&utcOffset=8" />
 </div>
   <!--
   //White BG color 2 stat
