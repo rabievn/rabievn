@@ -93,7 +93,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nurmuhammad02&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurmuhammad02&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurmuhammad02&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurmuhammad02&theme=github_dark&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurmuhammad02&theme=github_dark&utcOffset=5" />
 </div>
   <!--
   //White BG color 2 stat
