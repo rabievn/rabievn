@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dm8kyas2tkltbhp8n3oa8bwwcn2ti3rc6i8q04zp&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" height="" width="300" />
 </div>  
@@ -95,15 +96,15 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurmuhammad02&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurmuhammad02&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurmuhammad02&theme=github_dark&utcOffset=5" />
-</div>-->
-  
+</div>
+
   <!--White BG color 2 stat-->
-  <div align="center">
+  
+  <div id="stat" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Nurmuhammad02&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center"/>  
-  </div>  
-  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmuhammad02&hide_border=true&layout=compact&theme=github_dark" align="center" />
-  </div> 
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Nurmuhammad02)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
   
 
 <br/>  
