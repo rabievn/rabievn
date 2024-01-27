@@ -96,6 +96,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurmuhammad02&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurmuhammad02&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurmuhammad02&theme=github_dark&utcOffset=5" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Nurmuhammad02" />
 </div>
 
   <!--White BG color 2 stat-->
@@ -103,7 +104,7 @@
   <div id="stat" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Nurmuhammad02&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center"/>  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmuhammad02&hide_border=true&layout=compact&theme=github_dark" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Nurmuhammad02" />
+    
   </div>
   
 
