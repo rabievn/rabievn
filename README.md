@@ -88,22 +88,23 @@
 
 ## Github Stats  
 
+<!--
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurmuhammad02&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nurmuhammad02&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurmuhammad02&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurmuhammad02&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nurmuhammad02&theme=github_dark&utcOffset=5" />
-</div>
-  <!--
-  //White BG color 2 stat
+</div>-->
+  
+  <!--White BG color 2 stat-->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nurmuhammad02&show_icons=true&count_private=true&hide_border=true" align="center"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=Nurmuhammad02&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center"/>  
   </div>  
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmuhammad02&hide_border=true&layout=compact" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmuhammad02&hide_border=true&layout=compact&theme=github_dark" align="center" />
   </div> 
-  -->
+  
 
 <br/>  
 
