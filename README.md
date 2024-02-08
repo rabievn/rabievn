@@ -7,10 +7,10 @@
 ### <div align="center">Hi, I’m Nurik👨‍💻 </div>  
   
 
-- 🔭I’m interested in web-dev & QA 
+- 🔭I’m interested in web-dev 
   
 
-- 🌱 I’m currently learning QA
+- 🌱 I’m currently learning React Js
   
   ![codewars](https://www.codewars.com/users/Nurmuhammad02/badges/micro)
 
