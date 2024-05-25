@@ -100,12 +100,13 @@
 </div>
 
   <!--White BG color 2 stat-->
-  
+
   <div id="stat" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rabievn&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center"/>  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabievn&hide_border=true&layout=compact&theme=github_dark" align="center" />
-    
+<!---    
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@rabievn&theme=github_dark&border_color=1414b5" />  
+  --->
   </div>
   
 
