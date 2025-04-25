@@ -8,7 +8,7 @@
   top: 0; left: 0;
   width: 100vw;
   height: 100vh;
-  background: url("https://imgur.com/XcdSDBW") center/cover no-repeat;
+  background: url("https://i.imgur.com/XcdSDBW.gif") center/cover no-repeat;
   filter: brightness(0.4);
   z-index: -1;"></div>
 
