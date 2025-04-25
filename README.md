@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3djM212MnBpdTU0amkwZ201OWE3MWZxcGp3bGJncWZodWx0Y3VpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6oxrWBNElwOUAbwVF/giphy.gif"  width="300"/>
+      <img src="https://media1.tenor.com/m/Qnh8Kd1rdTEAAAAC/tlou2-the-last-of-us2.gif"  width="300"/>
 </div>
 
 <picture>
