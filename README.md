@@ -20,6 +20,10 @@
 </picture>
 </div>
 
+<div align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3djM212MnBpdTU0amkwZ201OWE3MWZxcGp3bGJncWZodWx0Y3VpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6oxrWBNElwOUAbwVF/giphy.gif"  width="300"/>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabievn/rabievn/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabievn/rabievn/output/github-contribution-grid-snake.svg" />
