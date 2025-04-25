@@ -1,10 +1,28 @@
+<style>
+.infection-background {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url("https://imgur.com/a/v8q8sb1") center/cover no-repeat;
+  filter: brightness(0.4);
+  z-index: -1;
+  animation: pulse 10s infinite alternate;
+}
+
+@keyframes pulse {
+  0% { filter: brightness(0.4) }
+  100% { filter: brightness(0.7) }
+}
+</style>
+
 <!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F90716&height=190&section=header&text=Rabiev%20N&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=55"/>
 </div>
 <!-- /HEADER -->
 
-
+<div class="infection-background"></div>
 
 <div align="center">
 <picture>
