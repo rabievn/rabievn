@@ -28,7 +28,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <a href="mailto:email@gmail.com" target="_blank">
+  <a href="mailto:rabiev.nr@gmail.com" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=F90716&height=120&section=footer&text=%20%20&animation=fadeIn&fontColor=fff&fontSize=12"/>
   </a>
 </div>
