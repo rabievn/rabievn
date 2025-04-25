@@ -9,7 +9,7 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rabievn&show_icons=true&theme=shadow_red"
+    srcset="https://github-readme-stats.vercel.app/api?username=rabievn&show_icons=true&theme=shadow_red&text_color=fff&icon_color=F90716&title_color=F90716&border_color=F90716"
     media="(prefers-color-scheme: dark)"
   />
   <source
