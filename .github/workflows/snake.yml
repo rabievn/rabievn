@@ -1,9 +1,14 @@
 name: generate animation
 
 on:
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
+  
+  # run on every push on the master branch
   push:
     branches:
       - main
@@ -19,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#F90716&color_dots=#e1e4e8,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-snake-dark.svg?color_snake=#F90716&color_dots=#444c56,#2ea44f,#22863a,#176f2c,#0f4429
+            dist/github-contribution-grid-snake.svg?color_snake=#F90716&color_dots=#FFE3E0,#FFB3BA,#FF7B89,#FF2D55,#F90716
+            dist/github-contribution-grid-snake-billy.svg?color_snake=#F90716&color_dots=#FFE3E0,#FFB3BA,#FF7B89,#FF2D55,#F90716
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
