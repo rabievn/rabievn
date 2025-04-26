@@ -18,6 +18,10 @@
 </picture>
 </div>
 
+<div align="center">
+      <img src="https://media1.tenor.com/m/Qnh8Kd1rdTEAAAAC/tlou2-the-last-of-us2.gif"  width="300"/>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabievn/rabievn/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabievn/rabievn/output/github-contribution-grid-snake.svg" />
