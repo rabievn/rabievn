@@ -4,8 +4,6 @@
 </div>
 <!-- /HEADER -->
 
-
-
 <div align="center">
 <picture>
   <source
