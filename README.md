@@ -28,7 +28,7 @@
       <img src="js.svg" width="40" height="40"/>
       <img src="vue.svg" width="40" height="40"/>
       <img src="ts.svg" width="40" height="40"/>
-
+      <img src="node.svg" width="40" height="40"/>
 </div>
 
 <picture>
