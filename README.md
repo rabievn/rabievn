@@ -22,6 +22,18 @@
       <img src="https://media1.tenor.com/m/Qnh8Kd1rdTEAAAAC/tlou2-the-last-of-us2.gif"  width="300"/>
 </div>
 
+ <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20" style="filter: invert(15%) sepia(90%) saturate(7467%) hue-rotate(357deg) brightness(98%) contrast(104%);"/>
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20" style="filter: invert(15%) sepia(90%) saturate(7467%) hue-rotate(357deg) brightness(98%) contrast(104%);"/>
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" style="filter: invert(15%) sepia(90%) saturate(7467%) hue-rotate(357deg) brightness(98%) contrast(104%);"/>
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="20" height="20" style="filter: invert(15%) sepia(90%) saturate(7467%) hue-rotate(357deg) brightness(98%) contrast(104%);"/>
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" style="filter: invert(15%) sepia(90%) saturate(7467%) hue-rotate(357deg) brightness(98%) contrast(104%);"/>
+  </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabievn/rabievn/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabievn/rabievn/output/github-contribution-grid-snake.svg" />
