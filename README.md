@@ -19,7 +19,6 @@
 </div>
 
 <div align="center">
-      <img src="https://media1.tenor.com/m/Qnh8Kd1rdTEAAAAC/tlou2-the-last-of-us2.gif"  width="300"/>
 </div>
 
 <div align="center">
