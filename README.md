@@ -14,7 +14,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=rabievn&show_icons=true&theme=shadow_red"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=rabievn&show_icons=true&theme=shadow_red" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rabievn&show_icons=true&theme=shadow_red" /> -->
 </picture>
 </div>
 
